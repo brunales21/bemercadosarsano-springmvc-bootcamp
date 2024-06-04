@@ -1,0 +1,23 @@
+.delete-button {
+    background-color: #ff4d4d;
+    color: white;
+    border: none;
+    padding: 5px 10px;
+    cursor: pointer;
+}
+
+.delete-button:hover {
+    background-color: #ff3333;
+}
+
+.update-button, .create-button {
+    background-color: #27b25c;
+    color: white;
+    border: none;
+    padding: 5px 10px;
+    cursor: pointer;
+}
+
+.update-button:hover, .create-button {
+    background-color: #0c9618;
+}
